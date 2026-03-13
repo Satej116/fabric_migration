@@ -1,0 +1,85 @@
+{
+  "Azure": {
+    "Storage": {
+      "Synapse SQL → OneLake (Fabric Warehouse)": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7BC99A8753-2E0E-4984-83B3-BDD0F585A1AB%7D&file=Synapse%20SQL%20to%20Onelake%20(Fabric%20Warehouse).docx&action=default&mobileredirect=true",
+      "ADLS Gen2 → OneLake (Lakehouse)": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7BA94CF587-3ABF-421D-B28E-89D52A740076%7D&file=ADLS%20Gen%202%20to%20Onelake%20(LakeHouse).docx&action=default&mobileredirect=true",
+      "Azure SQL → OneLake (Fabric Warehouse)": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B8EF2A280-3DE8-4656-918B-27A56A2CC072%7D&file=Azure%20SQL%20to%20Onelake%20(Fabric%20Warehouse).docx&action=default&mobileredirect=true"
+    },
+    "ETL": {
+      "ADF Pipeline → Fabric Data Pipeline": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B3212F943-5F94-4CB8-92BA-F5975CDD2113%7D&file=ADF%20Pipeline%20to%20Fabric%20Data%20Pipeline.docx&action=default&mobileredirect=true",
+      "Azure Databricks → MS Fabric Migration": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7BFA3132D9-2851-4FFA-84CD-924CE844A1D6%7D&file=Azure%20Databricks%20to%20Fabric%20Migration.docx&action=default&mobileredirect=true",
+      "Synapse Data Flows → Fabric Dataflow Gen2": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B20C46B07-8C9B-49C4-8E09-7E9476B62D55%7D&file=Synapse%20Data%20Flows%20to%20Fabric%20Dataflow%20Gen%202.docx&action=default&mobileredirect=true",
+      "ADF Dataflow Gen2 → Fabric Dataflow Gen2": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7BF4465A80-6712-4B50-9346-5D8A6B38256F%7D&file=ADF%20Dataflow%20Gen%202%20to%20Fabric%20Data%20Flow%20Gen%202.docx&action=default&mobileredirect=true",
+      "PySpark Notebook → Fabric PySpark Notebook": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7BDB4CF0DD-4A0E-4074-9161-7341604E24D8%7D&file=Pyspark%20Notebook%20to%20Fabric%20Pyspark%20Notebook.docx&action=default&mobileredirect=true",
+      "Python Notebook → Fabric Python Notebook": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B2CF4A012-39D8-4943-885F-95A55D0B5FB2%7D&file=Python%20Notebook%20to%20Fabric%20Python%20Notebook.docx&action=default&mobileredirect=true",
+      "SQL Notebook → Fabric SQL Notebook": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B4E55E385-B037-4F38-8166-232C3FC6A419%7D&file=SQL%20Notebook%20to%20Fabric%20SQL%20Notebook.docx&action=default&mobileredirect=true",
+      "Azure SQL Server → Fabric SQL Endpoint": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7BC2591FB7-CB59-4A66-BB65-E1D683CE2D57%7D&file=Azure%20SQL%20Server%20to%20Fabric%20SQL%20end%20point.docx&action=default&mobileredirect=true"
+    },
+    "Reporting": {
+      "Azure Power BI → Fabric Power BI": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B5AE1E1D1-29D7-4400-8255-4659D6DE0427%7D&file=Azure%20Power%20BI%20to%20Fabric%20Power%20BI.docx&action=default&mobileredirect=true"
+    }
+  },
+  "Databricks": {
+    "Storage": {
+      "Databricks SQL → Fabric Warehouse": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B1AF74EE1-0643-499E-B31D-B87FE2246629%7D&file=Databricks%20SQL%20to%20Fabric%20Warehouse.docx&action=default&mobileredirect=true",
+      "Delta Lake → OneLake": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7BC388C395-13FF-446B-99A6-1131E5965321%7D&file=Delta%20Lake%20to%20Onelake.docx&action=default&mobileredirect=true",
+      "Databricks File System → OneLake": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B7F901DAF-4B5F-4E5A-A16E-B6EB8A8E3E93%7D&file=Databricks%20File%20System%20to%20Onelake.docx&action=default&mobileredirect=true",
+      "Unity Catalog → Microsoft Purview": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7BDEAACFE8-46E5-4C22-8283-30D434068D1A%7D&file=Unity%20Catalog%20to%20Microsoft%20Purview.docx&action=default&mobileredirect=true",
+      "Databricks SQL Warehouse → Fabric Data Warehouse": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B8955E6BD-6C62-4822-B133-84B9D66171A8%7D&file=Databricks%20SQL%20Warehouse%20to%20Fabric%20Data%20Warehouse.docx&action=default&mobileredirect=true"
+    },
+    "ETL": {
+      "Databricks Workflows → Fabric Data Pipeline": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B0A75C2F0-5923-4308-9138-976150293433%7D&file=Databricks%20Workflows%20to%20Fabric%20Data%20Pipeline.docx&action=default&mobileredirect=true",
+      "Databricks Notebook → Fabric Notebooks": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7BDA017C2A-7A96-41B2-96E3-BD21E56D5883%7D&file=Databricks%20Notebook%20to%20Fabric%20Notebooks.docx&action=default&mobileredirect=true"
+    },
+    "Reporting": {
+      "Databricks SQL Dashboards → Fabric Power BI": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B720E6AEF-4BCA-4F89-9A86-0A53AA060DA6%7D&file=Databricks%20SQL%20Dashboards%20→%20Fabric%20Power%20BI.docx&action=default&mobileredirect=true"
+    }
+  },
+  "Snowflake": {
+    "Storage": {
+      "Snowflake Tables → Fabric Warehouse": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B7B1C57CD-D0CA-4AC5-BB79-AE7B7896671E%7D&file=Snowflake%20tables%20to%20Fabric%20Warehouse.docx&action=default&mobileredirect=true",
+      "Stages → OneLake": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B103D6836-B33A-4F3A-B275-894E58D4F564%7D&file=Stages%20to%20Onelake.docx&action=default&mobileredirect=true"
+    },
+    "ETL": {
+      "Snowflake Tasks → Fabric Pipeline": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B5EEE8B82-A462-40EF-AB1E-10D7B995F687%7D&file=Snowflake%20Tasks%20to%20Fabric%20Pipeline.docx&action=default&mobileredirect=true",
+      "Snowpark → Fabric Notebooks / Dataflow Gen2": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B5820B33D-F858-4E58-9EEC-054B393B3EA9%7D&file=Snowpark%20to%20Fabric%20Notebooks,%20Dataflow%20Gen2.docx&action=default&mobileredirect=true",
+      "Snowpipe → Eventstream": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B767B2082-FA25-4B07-A65D-100E4999907C%7D&file=Snowpipe%20to%20Eventstream.docx&action=default&mobileredirect=true"
+    },
+    "Reporting": {
+      "Snowsight Dashboards → Fabric Power BI": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7BC2E4B8BE-7979-4173-B810-5B32AC77D551%7D&file=Snowsight%20Dashboards%20to%20Fabric%20Power%20BI.docx&action=default&mobileredirect=true"
+    }
+  },
+  "Google Cloud": {
+    "Storage": {
+      "BigQuery → Fabric Warehouse": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B91541FCB-BCF2-4A4D-A742-44E61EC56F46%7D&file=BigQuery%20→%20Microsoft%20Fabric%20Warehouse.docx&action=default&mobileredirect=true",
+      "Google Cloud Storage → OneLake": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B0B340F84-8C0A-4A91-B381-79FDF83800BD%7D&file=Google%20Cloud%20Storage%20(GCS)%20→%20OneLake.docx&action=default&mobileredirect=true",
+      "Google Cloud SQL → Fabric Data Warehouse": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B56CE76C9-574E-4F24-88BA-609B04993AE7%7D&file=Google%20Cloud%20SQL%20→%20Fabric%20Data%20Warehouse.docx&action=default&mobileredirect=true"
+    },
+    "ETL": {
+      "Cloud Composer → Fabric Pipeline": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B43DA0B35-4032-4E86-8379-BD66A3BA2F2D%7D&file=Cloud%20Composer%20→%20Fabric%20Pipeline.docx&action=default&mobileredirect=true",
+      "GCP Dataflow → Fabric Dataflow Gen2": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B97A13D58-D154-4DB8-A529-7F46813BEC9D%7D&file=GCP%20Dataflow%20→%20Dataflow%20Gen%202.docx&action=default&mobileredirect=true",
+      "BigQuery Data Transfer Service → Microsoft Fabric Data Pipeline": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7BEA159F9F-BAF7-41EB-A5C4-0C4A16DA9C6D%7D&file=BigQuery%20Data%20Transfer%20Service→%20Microsoft%20Fabric%20Data%20Pipeline.docx&action=default&mobileredirect=true"
+    },
+    "Reporting": {
+      "Google Data Studio → Fabric Power BI": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B6F29AFBA-BE95-4E49-AF13-D854F9B40015%7D&file=Google%20Data%20Studio%20→%20Fabric%20Power%20BI..docx&action=default&mobileredirect=true"
+    }
+  },
+  "AWS": {
+    "Storage": {
+      "Redshift → OneLake (Fabric Warehouse)": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7BAF1DBB47-0941-4C01-8DA3-B032364C8712%7D&file=Redshift%20to%20Onelake%20(Fabric%20Warehouse).docx&action=default&mobileredirect=true",
+      "S3 → OneLake (Lakehouse)": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7BE2834256-71FE-42B3-80D9-368B0CFA68AA%7D&file=S3%20to%20Onelake%20(Lakehouse).docx&action=default&mobileredirect=true",
+      "EBS / EFS → OneLake (Lakehouse)": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B3B7E7A4A-7B5C-4C22-A516-EA8DD2CC200F%7D&file=EBS,%20EFS%20to%20Onelake%20(Lakehouse).docx&action=default&mobileredirect=true"
+    },
+    "ETL": {
+      "AWS Glue → Fabric Notebook / Dataflow": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B09B81C43-856F-4FA3-A31E-320157E5B9BF%7D&file=AWS%20Glue%20to%20Fabric%20Notebook,%20Dataflow.docx&action=default&mobileredirect=true",
+      "AWS Lambda → Fabric Data Pipeline": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B0B0598F6-2F4B-4A0E-A193-77F7CF8D2950%7D&file=AWS%20Lambda%20to%20Fabric%20Data%20Pipeline.docx&action=default&mobileredirect=true",
+      "AWS Step Functions (ETL Workflows) → Fabric Pipelines": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B758B0D86-564F-42CB-8A55-5FBE37A208C7%7D&file=AWS%20Step%20Functions%20(ETL%20Workflows)%20to%20Fabric%20Pipeline.docx&action=default&mobileredirect=true"
+    },
+    "Reporting": {
+      "AWS EC2 → Fabric Notebook / Dataflow": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7B30924A13-2438-4296-A407-927510C22282%7D&file=AWS%20EC2%20to%20Fabric%20Notebook-Dataflow.docx&action=default&mobileredirect=true",
+      "QuickSight → Fabric Power BI": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7BCC33B1AE-68D5-42EB-9074-126ED3A731AA%7D&file=QuickSight%20to%20Fabric%20Power%20BI.docx&action=default&mobileredirect=true",
+      "QlikSense → Fabric Power BI": "https://hexawareonline.sharepoint.com/:w:/r/sites/BizkitDoc/_layouts/15/Doc.aspx?sourcedoc=%7BAE562E73-E123-4346-B9EE-7E0AC5FDE566%7D&file=QlikSense%20to%20Fabric%20Power%20BI.docx&action=default&mobileredirect=true",
+      "QlikView → Fabric Power BI": "SHAREPOINT_LINK"
+    }
+  }
+}
